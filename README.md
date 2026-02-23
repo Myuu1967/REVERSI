@@ -1,0 +1,5 @@
+- LISENSE  MITライセンスを主張します
+- REVERSI4x4.ASM 4x4バージョンのREVERSIのアセンブリ言語のコードです。
+- REVERSI4x4.hex REVERSI4x4.ASMのHEXファイルです。
+- REVERSI8x8.ASM　8x8バージョンのREVERSIのアセンブリ言語のコードです。
+- REVERSI8x8.hex　8x8バージョンのREVERSIのHEXファイルです。
